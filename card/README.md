@@ -71,13 +71,13 @@ This allows the UI to update automatically whenever new jobs are added to the ar
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/abhiav-spec/React_projects.git
 ```
 
 ### 2️⃣ Go to project folder
 
 ```bash
-cd your-repo-name
+cd card
 ```
 
 ### 3️⃣ Install dependencies
