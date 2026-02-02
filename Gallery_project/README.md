@@ -24,7 +24,7 @@ A modern, responsive image gallery built with **React**, **Vite**, **Tailwind CS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Gallery_project.git
+   git clone https://github.com/abhiav-spec/Gallery_project.git
    cd Gallery_project
    ```
 
